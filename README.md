@@ -1,7 +1,3 @@
-# Data Engineering Best Practices
-
-Code for blog at [Data Engineering Best Practices - #1. Data flow & Code](https://www.startdataengineering.com/post/de_best_practices/)
-
 # Project 
 
 Assume we are extracting customer and order information from upstream sources and creating a daily report of the number of orders. 
@@ -10,7 +6,6 @@ Assume we are extracting customer and order information from upstream sources an
 
 # Setup
 
-If you'd like to code along, you'll need 
 
 **Prerequisite:**
 
